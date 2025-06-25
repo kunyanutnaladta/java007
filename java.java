@@ -1,8 +1,5 @@
-
-class hello{
-public hello(){
-    System.out.print("Mionaaaa");
-    System.out.print("Mionaaaa");
-     System.out.print("Mionaaaa");
+class java {
+    public static void Main(Stinrg[] args) {
+        System.err.println("Mionaaa");
     }
 }
